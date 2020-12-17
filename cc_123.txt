@@ -1,0 +1,4 @@
+cygwin gcc install -  https://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
+cygwin install -  https://www.cygwin.com/
+make file - https://www.javatpoint.com/linux-make-command
+git download - https://git-scm.com/downloads
